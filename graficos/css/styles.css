@@ -147,6 +147,14 @@ th {
     border-radius: 5px;
 }
 
+.clean-list {
+  list-style: none;       
+  padding-left: 0;        
+  margin: 0;              
+}
+
+
+
 @media (max-width: 768px) {
     .content-wrapper {
         padding: 10px;
